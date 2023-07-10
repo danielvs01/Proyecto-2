@@ -1,3 +1,5 @@
+# Esta calculadora está en fase de desarollo, por lo que solo se puede hacer 1 operación a la vez
+
 import os
 
 def calculadora():
