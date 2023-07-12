@@ -1,4 +1,5 @@
-# Esta calculadora está en fase de desarollo, por lo que solo se puede hacer 1 operación a la vez
+# Profe, esta calculadora está en fase beta, por lo que sólo se puede hacer 1 operación a la vez :)
+# l para borrar el historial y q para salir de la calculadora, enter para el resultado
 
 import os
 
